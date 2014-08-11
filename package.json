@@ -1,6 +1,6 @@
 {
   "name": "meta-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "read config from text file(js, css, html, bash, php) by code comment.",
   "main": "index.js",
   "scripts": {
